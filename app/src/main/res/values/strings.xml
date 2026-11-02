@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Buku</string>
+    <string name="btn_tambah">+ Tambah Buku</string>
+    <string name="btn_tampilan_grid">Tampilan Grid</string>
+    <string name="btn_tampilan_daftar">Tampilan Daftar</string>
+    <string name="buku_detail">%1$s · %2$d</string>
+    <string name="toast_dipilih">Dipilih: %1$s</string>
+    <string name="buku_baru_judul">Buku Baru %1$d</string>
+    <string name="buku_baru_penulis">Penulis Baru</string>
+</resources>
